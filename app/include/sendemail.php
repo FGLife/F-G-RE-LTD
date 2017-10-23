@@ -24,8 +24,8 @@ if( isset( $_POST['template-contactform-submit'] ) AND $_POST['template-contactf
 
         $botcheck = $_POST['template-contactform-botcheck'];
 
-        $toemail = ''; // paul.tyler@fglife.com
-        $toname = ''; // Paul Tyler
+        $toemail = ''; // john.oshaughnessy@fglife.com
+        $toname = ''; // John O'Schaughnessy
 
         if( $botcheck == '' ) {
 
