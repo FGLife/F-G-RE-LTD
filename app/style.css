@@ -14491,7 +14491,7 @@ button.toast-close-button {
   display: inline-block;
   margin-left: 160px;
   margin-bottom: 0px;
-  font-size: 12px;
+  font-size: 14px;
   list-style-type:none;
 }
 #copyrights a {
@@ -19783,6 +19783,7 @@ img.mfp-img {
     width: 100%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     -webkit-backface-visibility: hidden;
+    background-color: white;
   }
   #header.sticky-style-2 #header-wrap,
   #header.sticky-style-3 #header-wrap {
@@ -20035,7 +20036,7 @@ img.mfp-img {
   }
   #primary-menu-trigger {
     opacity: 1;
-    color: #fff !important;
+    color: #001a71 !important;
     pointer-events: auto;
     top: 25px;
     margin-top: 0;
@@ -20064,7 +20065,7 @@ img.mfp-img {
   }
   #primary-menu ul li a,
   #primary-menu.style-2 > div > ul > li > a {
-    color: #fff !important;
+    color: #001a71 !important;
     height: 50px !important;
     line-height: 50px !important;
     padding: 0 5px !important;
@@ -21340,7 +21341,8 @@ img.mfp-img {
   .container,
   #header.full-header .container,
   .container-fullwidth {
-    width: 310px !important;
+    width: 300px !important;
+    margin-left: 15px;
   }
   .container.vertical-middle {
     width: 100% !important;
