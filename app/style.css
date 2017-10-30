@@ -3466,7 +3466,7 @@ body.stretched .container-fullwidth .breadcrumb {
 }
 #page-title.page-title-dark {
   background-color: #333;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15) !important;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.50) !important;
   border-bottom: none;
 }
 #page-title.page-title-dark h1 {
@@ -3522,9 +3522,10 @@ body.stretched .container-fullwidth .breadcrumb {
   background-repeat: no-repeat;
 }
 #page-title.page-title-parallax h1 {
-  font-size: 40px;
+  font-size: 38px;
   font-weight: 600;
   letter-spacing: 2px;
+  line-height: 1.5;
 }
 #page-title.page-title-parallax span {
   font-size: 30px;
