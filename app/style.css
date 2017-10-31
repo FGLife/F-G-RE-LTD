@@ -144,7 +144,7 @@ h4,
 h5,
 h6 {
   color: #001a71;
-  font-weight: 400;
+  font-weight: normal;
   line-height: 1.5;
   margin: 0 0 10px 0;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
@@ -181,14 +181,14 @@ h6 {
   font-size: 12px;
 }
 h3 {
-  font-weight: 400;
+  font-weight: normal;
 }
 h4 {
-  font-weight: 400;
+  font-weight: normal;
 }
 h5,
 h6 {
-  font-weight: bold;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
 }
 h1 > span:not(.nocolor),
 h2 > span:not(.nocolor),
@@ -229,7 +229,7 @@ sup {
   top: -0.3em;
 }
 h1.header-alt {
-  font-weight: 400;
+  font-weight: normal;
   color: #009999;
   line-height: 1.5;
   margin: 0 0 10px 0;
@@ -239,19 +239,19 @@ h1.header-alt {
 h1.faq-alt {
   font-size: 24px;
   color: #001a71;
-  font-weight: 400;
+  font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   line-height: 1;
 }
 h3.blue-heading {
   font-size: 25px !important;
-  font-weight: 400;
+  font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #001a71;
 }
 h4.blue-heading {
   font-size: 20px !important;
-  font-weight: 400;
+  font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #001a71;
 }
@@ -263,14 +263,14 @@ h3.gray-heading {
 }
 h4.gray-heading {
   font-size: 20px !important;
-  font-weight: 400;
+  font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #5a6771;
   text-transform: uppercase;
 }
 h5.gray-heading {
   font-size: 17px !important;
-  font-weight: 400;
+  font-weight: normal;
   font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #5a6771;
   text-transform: uppercase;
@@ -278,7 +278,7 @@ h5.gray-heading {
 section.contact-top-container .heading-block h10 {
   font-size: 38px;
   text-transform: none;
-  font-weight: 500;
+  font-weight: normal;
   font-family: "ProximaNova-Medium", Arial, sans-serif;
 }
 .heading-block h10 {
@@ -1271,7 +1271,7 @@ body.stretched #header.full-header .container {
   line-height: 138px;
   padding: 0 25px;
   color: #001a71;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 15px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -3530,9 +3530,11 @@ body.stretched .container-fullwidth .breadcrumb {
 }
 #page-title.page-title-parallax h1 {
   font-size: 38px;
-  font-weight: 600;
+  font-weight: normal;
   letter-spacing: 2px;
   line-height: 1.5;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
+
 }
 #page-title.page-title-parallax span {
   font-size: 30px;
@@ -12270,8 +12272,9 @@ body:not(.device-touch) .clients-grid li a {
   font-size: 19px;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: normal;
   margin-top: -5px;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
 }
 .team-title span {
   display: block;
@@ -13762,7 +13765,7 @@ textarea.sm-form-control[placeholder] {
 label {
   display: inline-block;
   font-size: 13px;
-  font-weight: 700;
+  font-weight: normal;
   font-family: "ProximaNova-Bold", Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
