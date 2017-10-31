@@ -116,7 +116,7 @@ body {
   line-height: 1.5;
   color: #5c666f;
   font-size: 15.5px;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 a {
   text-decoration: none !important;
@@ -147,7 +147,7 @@ h6 {
   font-weight: 400;
   line-height: 1.5;
   margin: 0 0 10px 0;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 .h1-white,
 .h2-white,
@@ -213,7 +213,7 @@ form {
   margin-bottom: 0px;
 }
 small {
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 #wrapper {
   position: relative;
@@ -233,39 +233,45 @@ h1.header-alt {
   color: #009999;
   line-height: 1.5;
   margin: 0 0 10px 0;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-size: 24px;
 }
 h1.faq-alt {
   font-size: 24px;
   color: #001a71;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   line-height: 1;
 }
 h3.blue-heading {
   font-size: 25px !important;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #001a71;
 }
 h4.blue-heading {
   font-size: 20px !important;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #001a71;
 }
 h3.gray-heading {
   font-size: 25px !important;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #5a6771;
 }
 h4.gray-heading {
   font-size: 20px !important;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #5a6771;
   text-transform: uppercase;
 }
 h5.gray-heading {
   font-size: 17px !important;
   font-weight: 400;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   color: #5a6771;
   text-transform: uppercase;
 }
@@ -273,6 +279,7 @@ section.contact-top-container .heading-block h10 {
   font-size: 38px;
   text-transform: none;
   font-weight: 500;
+  font-family: "ProximaNova-Medium", Arial, sans-serif;
 }
 .heading-block h10 {
   text-shadow: rgba(0, 0, 0, 0.66) 1px 1px 2px;
@@ -289,7 +296,7 @@ h10 {
 h10 {
   line-height: 1.5;
   margin: 0 0 10px 0;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 /*-----------------------------------------------------------------------------------
 
@@ -1147,7 +1154,7 @@ body.stretched #header.full-header .container {
 #logo {
   position: relative;
   float: left;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-size: 36px;
   line-height: 100%;
   margin-right: 40px;
@@ -1268,7 +1275,7 @@ body.stretched #header.full-header .container {
   font-size: 15px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   -webkit-transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
   -o-transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
   transition: height 0.4s ease, line-height 0.4s ease, margin 0.4s ease, padding 0.4s ease;
@@ -1337,7 +1344,7 @@ body.stretched #header.full-header .container {
   border: 0 !important;
   padding: 0 25px !important;
   letter-spacing: 0;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -1433,7 +1440,7 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a {
   font-size: 13px;
   font-weight: bold;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase !important;
   margin-bottom: 15px;
@@ -1866,7 +1873,7 @@ body.top-search-open #top-search form {
   color: #333;
   font-weight: 700;
   margin-top: 0 !important;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   letter-spacing: 2px;
 }
 body:not(.device-sm):not(.device-xs):not(.device-xxs) #header.full-header #top-search form input {
@@ -5052,7 +5059,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay {
 }
 .entry blockquote p {
   font-weight: 400;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-style: italic;
 }
 .entry-image {
@@ -5098,8 +5105,8 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay {
   line-height: 14px;
   margin: 0 10px 15px 0;
   color: #999;
-  font-family: "proxima-nova", Arial, sans-serif;
-  font-style: italic;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
+  font-style: regular;
 }
 .entry-meta li:before {
   content: '/';
@@ -5145,7 +5152,7 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay {
   padding: 30px 0;
   text-align: center;
   color: #444;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 24px;
@@ -5165,8 +5172,8 @@ body.device-touch.device-xxs .portfolio-notitle .portfolio-overlay {
 .entry-link span {
   display: block;
   margin-top: 5px;
-  font-family: "proxima-nova", Arial, sans-serif;
-  font-style: italic;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
+  font-style: regular;
   font-weight: normal;
   text-transform: none;
   letter-spacing: 0;
@@ -5438,10 +5445,10 @@ body:not(.device-touch) .entry-link {
   background-color: #FFF;
   border: 2px solid #EEE;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
 }
 .entry.entry-date-section + .entry .entry-timeline {
   top: 70px;
@@ -5524,8 +5531,8 @@ body:not(.device-touch) .entry-link {
   display: inline-block;
   border-bottom: 1px solid #009f93;
   padding: 0 2px;
-  font-family: "proxima-nova", Arial, sans-serif;
-  font-style: italic;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
+  font-style: normal;
 }
 .more-link:hover {
   border-bottom-color: #555;
@@ -5785,8 +5792,8 @@ body:not(.device-touch) .entry-link {
 .comment-content .comment-author a {
   font-size: 12px;
   font-weight: normal;
-  font-family: "proxima-nova", Arial, sans-serif;
-  font-style: italic;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
+  font-style: normal;
   color: #AAA;
 }
 .comment-reply-link,
@@ -9025,7 +9032,7 @@ body:not(.device-touch) .button {
   font-size: 22px;
   height: auto;
   line-height: 1;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 .button.button-desc span {
   display: block;
@@ -9033,8 +9040,8 @@ body:not(.device-touch) .button {
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1px;
-  font-family: "proxima-nova", Arial, sans-serif;
-  font-style: italic;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
+  font-style: normal;
   text-transform: none;
 }
 .button i {
@@ -10387,8 +10394,8 @@ body:not(.device-touch) .button.button-full strong {
   display: none;
 }
 .feature-box.fbox-center.fbox-italic p {
-  font-style: italic;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-style: normal;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
 }
 /* Feature Box - Background
 -----------------------------------------------------------------*/
@@ -12078,7 +12085,7 @@ body:not(.device-touch) .clients-grid li a {
 }
 .testi-content p {
   margin-bottom: 0;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-size: 15px;
   min-height: 90px;
 }
@@ -12270,7 +12277,7 @@ body:not(.device-touch) .clients-grid li a {
   display: block;
   color: #009f93;
   font-weight: 400;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-size: 14px;
   text-transform: none;
   margin-top: -5px;
@@ -12608,7 +12615,7 @@ body:not(.device-touch) .team-overlay {
 .counter {
   font-size: 42px;
   font-weight: 600;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Semibold", Arial, sans-serif;
 }
 .counter.counter-small {
   font-size: 28px;
@@ -12735,7 +12742,7 @@ body:not(.device-touch) .rounded-skill {
 }
 .skills li .progress-percent .counter {
   font-weight: 400;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
 }
 .skills li .progress-percent:after,
 .skills li .progress-percent:before {
@@ -13434,7 +13441,7 @@ body:not(.device-touch) .text-overlay {
   display: block;
   margin: 0 0 5px;
   font-size: 16px;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Regular", Arial, sans-serif;
   font-style: italic;
   font-weight: 400;
   color: #999;
@@ -13756,7 +13763,7 @@ label {
   display: inline-block;
   font-size: 13px;
   font-weight: 700;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: #555;
@@ -13862,8 +13869,8 @@ span.hs-form-required {
   border-radius: 2px !important;
   background-color: seashell;
   font-size: 12px;
-  font-family: 'proxima-nova', Arial, sans-serif;
-  font-weight: bold !important;
+  font-family: 'ProximaNova-Bold', Arial, sans-serif;
+  font-weight: regular !important;
 }
 
 #footer .logo {
@@ -14396,10 +14403,10 @@ button.toast-close-button {
 .wedding-head .and {
   display: inline-block;
   margin-right: 15px;
-  font-weight: bold;
+  font-weight: regular;
   text-align: right;
   text-transform: uppercase;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
   letter-spacing: 2px;
 }
 .wedding-head .last-name {
@@ -14412,8 +14419,8 @@ button.toast-close-button {
   margin-top: 10px;
   font-size: 56px;
   font-weight: 400;
-  font-style: italic;
-  font-family: "proxima-nova", Arial, sans-serif;
+  font-style: normal;
+  font-family: "ProximaNova-Italic", Arial, sans-serif;
   text-transform: none;
 }
 .wedding-head .and {
