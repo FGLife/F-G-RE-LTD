@@ -476,8 +476,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin-top: 15px;
-
+  margin: 0 0 10px;
 }
 .lead {
   margin-bottom: 20px;
@@ -762,7 +761,8 @@ pre code {
   overflow-y: scroll;
 }
 .container {
- margin: 0 80px;
+  margin-right: auto;
+  margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -778,7 +778,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1350px;
+    width: 1170px;
   }
 }
 .container-fluid {
@@ -3790,7 +3790,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .breadcrumb > li + li:before {
   content: "/\00a0";
   padding: 0 5px;
-  color: #5c666f;
+  color: #cccccc;
 }
 .breadcrumb > .active {
   color: #777777;

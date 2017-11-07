@@ -7689,7 +7689,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 #footer.dark,
 .dark #footer {
-  background-color: #001a71;
+  background-color: #009999;
   color: #fff;
   border-top: 1px solid;
   border-top-color: #fff;
@@ -7701,7 +7701,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 }
 
 .dark #copyrights {
-  background-color: #001a71;
+  background-color: #009999;
   color: #fff;
   border-top: 1px solid;
   border-top-color: #fff;
