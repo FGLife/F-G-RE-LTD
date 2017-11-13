@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a6df0e3-41a2-4774-8893-15179d8b4d99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/website-terms.html" afterPath="$PROJECT_DIR$/app/website-terms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="website-terms.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="website-terms.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/website-terms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1189">
-              <caret line="355" column="66" lean-forward="true" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
+            <state relative-caret-position="296">
+              <caret line="164" column="103" lean-forward="false" selection-start-line="164" selection-start-column="103" selection-end-line="164" selection-end-column="103" />
               <folding />
             </state>
           </provider>
@@ -95,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="74">
@@ -192,13 +191,13 @@
         <option value="$PROJECT_DIR$/app/error.html" />
         <option value="$PROJECT_DIR$/app/solutions.html" />
         <option value="$PROJECT_DIR$/app/404.html" />
-        <option value="$PROJECT_DIR$/app/website-terms.html" />
         <option value="$PROJECT_DIR$/app/style.css" />
         <option value="$PROJECT_DIR$/app/contact.html" />
         <option value="$PROJECT_DIR$/app/include/sendemail.php" />
         <option value="$PROJECT_DIR$/app/management.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/about.html" />
+        <option value="$PROJECT_DIR$/app/website-terms.html" />
       </list>
     </option>
   </component>
@@ -457,12 +456,12 @@
       <workItem from="1510081951635" duration="7191000" />
       <workItem from="1510234391107" duration="458000" />
       <workItem from="1510513241051" duration="685000" />
-      <workItem from="1510586148913" duration="4517000" />
+      <workItem from="1510586148913" duration="5079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94571000" />
+    <option name="totallyTimeSpent" value="95133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2477" y="23" width="2035" height="1338" extended-state="0" />
@@ -726,14 +725,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="355" column="66" lean-forward="true" selection-start-line="355" selection-start-column="66" selection-end-line="355" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
@@ -826,6 +817,14 @@
             <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1510600450000" expanded="false" signature="7408:7433" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/website-terms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="164" column="103" lean-forward="false" selection-start-line="164" selection-start-column="103" selection-end-line="164" selection-end-column="103" />
+          <folding />
         </state>
       </provider>
     </entry>
