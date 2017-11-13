@@ -3532,11 +3532,11 @@ body.stretched .container-fullwidth .breadcrumb {
   background-repeat: no-repeat;
 }
 #page-title.page-title-parallax h1 {
-  font-size: 38px;
+  font-size: 40px;
   font-weight: normal;
   letter-spacing: 2px;
-  line-height: 1.5;
-  font-family: "ProximaNova-Semibold", Arial, sans-serif;
+  line-height: 1.3;
+  font-family: "ProximaNova-Bold", Arial, sans-serif;
 
 }
 #page-title.page-title-parallax span {
@@ -14569,8 +14569,8 @@ button.toast-close-button {
 }
 
 .widget_links {
-  margin-left:70px;
-  margin-top: 10px !important;
+  margin-left:100px;
+  margin-top: 25px !important;
 }
 .widget p {
   font-size: 14px;
