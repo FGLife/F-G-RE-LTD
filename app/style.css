@@ -3595,6 +3595,7 @@ body.stretched .container-fullwidth .breadcrumb {
 }
 #content p {
   line-height: 1.3;
+  font-size: 13px;
 }
 #content .content-wrap {
   position: relative;
@@ -11061,7 +11062,7 @@ body:not(.device-touch) .on-hover.i-overlay {
   width: 30px;
   height: 30px;
   font-size: 14px;
-  line-height: 30px !important;
+  line-height: 25px !important;
 }
 .social-icon i {
   display: block;
@@ -12353,7 +12354,7 @@ body:not(.device-touch) .team-overlay {
   position: relative;
   overflow: hidden;
   text-align: left;
-  height: 280px;
+  height: 250px;
 }
 .team.team-list .team-title {
   padding-top: 0;
