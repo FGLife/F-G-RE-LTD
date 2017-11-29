@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a6df0e3-41a2-4774-8893-15179d8b4d99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/contact-php.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/contact-test.html" afterPath="$PROJECT_DIR$/app/contact-hubspot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/404.html" afterPath="$PROJECT_DIR$/app/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact-hubspot.html" afterPath="$PROJECT_DIR$/app/contact-hubspot.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact-php.html" afterPath="$PROJECT_DIR$/app/contact-php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/error.html" afterPath="$PROJECT_DIR$/app/error.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/management.html" afterPath="$PROJECT_DIR$/app/management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/solutions.html" afterPath="$PROJECT_DIR$/app/solutions.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/website-terms.html" afterPath="$PROJECT_DIR$/app/website-terms.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-hubspot.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact-hubspot.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/contact-hubspot.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="124" column="66" lean-forward="false" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+            <state relative-caret-position="527">
+              <caret line="174" column="76" lean-forward="true" selection-start-line="174" selection-start-column="76" selection-end-line="174" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -54,18 +46,18 @@
       <file leaf-file-name="contact-php.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact-php.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="946">
+              <caret line="227" column="23" lean-forward="true" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+            <state relative-caret-position="698">
+              <caret line="247" column="106" lean-forward="false" selection-start-line="247" selection-start-column="106" selection-end-line="247" selection-end-column="106" />
               <folding />
             </state>
           </provider>
@@ -218,6 +210,8 @@
         <option value="$PROJECT_DIR$/app/404.html" />
         <option value="$PROJECT_DIR$/app/contact-test.html" />
         <option value="$PROJECT_DIR$/app/contact.html" />
+        <option value="$PROJECT_DIR$/app/contact-php.html" />
+        <option value="$PROJECT_DIR$/app/contact-hubspot.html" />
       </list>
     </option>
   </component>
@@ -487,12 +481,12 @@
       <workItem from="1511806272719" duration="559000" />
       <workItem from="1511879726942" duration="704000" />
       <workItem from="1511967867284" duration="178000" />
-      <workItem from="1511969644876" duration="2717000" />
+      <workItem from="1511969644876" duration="2882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105022000" />
+    <option name="totallyTimeSpent" value="105187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2520" y="23" width="2413" height="1321" extended-state="0" />
@@ -826,26 +820,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact-hubspot.html">
+    <entry file="file://$PROJECT_DIR$/app/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="124" column="66" lean-forward="false" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+        <state relative-caret-position="698">
+          <caret line="247" column="106" lean-forward="false" selection-start-line="247" selection-start-column="106" selection-end-line="247" selection-end-column="106" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact-php.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="946">
+          <caret line="227" column="23" lean-forward="true" selection-start-line="227" selection-start-column="23" selection-end-line="227" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact.html">
+    <entry file="file://$PROJECT_DIR$/app/contact-hubspot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+        <state relative-caret-position="527">
+          <caret line="174" column="76" lean-forward="true" selection-start-line="174" selection-start-column="76" selection-end-line="174" selection-end-column="76" />
           <folding />
         </state>
       </provider>
