@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a6df0e3-41a2-4774-8893-15179d8b4d99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/about.html" afterPath="$PROJECT_DIR$/app/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/contact.html" afterPath="$PROJECT_DIR$/app/contact.html" />
-    </list>
+    <list default="true" id="3a6df0e3-41a2-4774-8893-15179d8b4d99" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -156,8 +152,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2011" />
-    <option name="y" value="57" />
+    <option name="x" value="-2007" />
+    <option name="y" value="23" />
     <option name="width" value="2413" />
     <option name="height" value="1321" />
   </component>
@@ -406,15 +402,15 @@
       <workItem from="1511879726942" duration="704000" />
       <workItem from="1511967867284" duration="178000" />
       <workItem from="1511969644876" duration="5482000" />
-      <workItem from="1511992630604" duration="406000" />
+      <workItem from="1511992630604" duration="488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108193000" />
+    <option name="totallyTimeSpent" value="108275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2011" y="57" width="2413" height="1321" extended-state="0" />
+    <frame x="-2007" y="23" width="2413" height="1321" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
