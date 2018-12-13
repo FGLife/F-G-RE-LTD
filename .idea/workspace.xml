@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a6df0e3-41a2-4774-8893-15179d8b4d99" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/management.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
+            <state relative-caret-position="2445">
               <caret line="163" column="41" selection-start-line="163" selection-start-column="41" selection-end-line="163" selection-end-column="41" />
             </state>
           </provider>
@@ -55,8 +55,8 @@
       <file leaf-file-name="management.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/management.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="178" column="46" lean-forward="true" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
+            <state relative-caret-position="689">
+              <caret line="178" column="46" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -165,16 +165,15 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
-    <option name="y" value="-134" />
+    <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +190,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,29 +296,35 @@
       <workItem from="1513284790565" duration="175000" />
       <workItem from="1513894331448" duration="25000" />
       <workItem from="1525446423941" duration="2874000" />
-      <workItem from="1533304078849" duration="110000" />
+      <workItem from="1533304078849" duration="478000" />
+      <workItem from="1544737395533" duration="431000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113124000" />
+    <option name="totallyTimeSpent" value="113923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-134" width="1920" height="1057" extended-state="6" />
+    <frame x="-1920" y="23" width="1920" height="1008" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14383562" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="DB Browser" />
+      <window_info anchor="bottom" id="DB Execution Console" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.23138686" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14383562" />
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -330,21 +336,21 @@
     <layout-to-restore>
       <window_info id="Gulp" order="3" side_tool="true" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14464884" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32846716" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.23138686" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32846716" />
       <window_info id="Favorites" order="4" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -580,15 +586,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
+        <state relative-caret-position="2445">
           <caret line="163" column="41" selection-start-line="163" selection-start-column="41" selection-end-line="163" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/management.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="178" column="46" lean-forward="true" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
+        <state relative-caret-position="689">
+          <caret line="178" column="46" selection-start-line="178" selection-start-column="46" selection-end-line="178" selection-end-column="46" />
         </state>
       </provider>
     </entry>
